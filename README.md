@@ -16,5 +16,7 @@ IF you're finding any issues, bugs or problems with the code, please inform me o
 
 # Downloading
 
-Whether you download a single file or the whole project, it is up to you deciding the usage, therefore, I in no way will be held responsible for inaccuracies in the information provided herein, nor for any delays or failure to remove content that may be inaccurate, and In no way, i  or any participants be held responsible for any problems that might occur, or any damage or loss sustained due to the misuse of any of the programs.
+Whether you download a single file or the whole project, it is up to you deciding the usage, therefore: 
+* I in no way will be held responsible for inaccuracies in the information provided herein, nor for any delays or failure to remove content that may be inaccurate.
+* And In no way, i  or any participants be held responsible for any problems that might occur, or any damage or loss sustained due to the misuse of any of the programs.
 
